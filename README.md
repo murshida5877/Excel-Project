@@ -2,8 +2,7 @@
 TITLE :Restaurant Sales Data Analysis 
 
 DATASET DESCRIPTION :
-
-        This dataset contains transactional sales records for a multi-location restaurant chain across major European cities. It tracks order-level details, revenue, fulfillment channels, payment methods, and store manager performance to analyze overall business growth and regional customer preferences
+This dataset contains transactional sales records for a multi-location restaurant chain across major European cities. It tracks order-level details, revenue, fulfillment channels, payment methods, and store manager performance to analyze overall business growth and regional customer preferences
         
 BUSINESS QUESTIONS :
 
@@ -54,9 +53,7 @@ ORIGINAL DATASET :
 
 Kaggle – Restaurant Sales Data.
 
-Original Dataset Link : https://www.kaggle.com/datas
-ets/rohitgrewal/restaurant-sal
-es-data
+Original Dataset Link : https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data
 
 
 
